@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The only way to have the rents of England well paid, and also help trade, and supply the government.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04636</idno>
+            <idno type="STC">Wing O349B</idno>
+            <idno type="STC">ESTC R233238</idno>
+            <idno type="EEBO-CITATION">52528868</idno>
+            <idno type="OCLC">ocm 52528868</idno>
+            <idno type="VID">178850</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04636)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178850)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2773:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The only way to have the rents of England well paid, and also help trade, and supply the government.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Currency question --  Great Britain --  Early works to 1800.</term>
+               <term>Credit --  Great Britain --  Early works to 1800.</term>
+               <term>Bank notes --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:178850:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>THE <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>LY WAY <hi>to have the</hi> RENTS <hi>of</hi> England <hi>well Paid, and alſo help</hi> TRADE, <hi>and</hi> Supply <hi>the,</hi> Government.</head>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> has been the great Study of the <hi>Enemies</hi> of the <hi>Government,</hi> to <hi>Debaſe</hi> and <hi>Diminiſh</hi> our <hi>Coyn,</hi> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>owing that there could be nothing more Ruinous to us, eſpecially in the time of War; and tho' the Par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ment  have taken care to make it good, yet will it require a conſiderable time to perfect it, <hi>ſo that there <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be Coyn enough Current to pay Rents, Taxes,</hi> &amp;c. which makes it much the more neceſſary to ſupply the <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hereof at preſent with <hi>good Credit,</hi> Which if done, would mightily diſappoint the great Hopes our <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are at preſent big with; That <hi>after the 4th Day of May,</hi> we ſhall <hi>neither have Money nor any thing equiva<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ereto, which they buz into People with no ſmall diligence, in hopes thereby to propagate their <gap reason="illegible: in gutter" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>s.</p>
+            <p>Credit, it muſt be owned that the <hi>moſt ſolid</hi> is that which has the <hi>Sanction of Parliament,</hi> yet do we <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Tallies ſecured by parliament, and payable in courſe</hi> one after another, are not of equal Value to, nor ſo <gap reason="illegible: in gutter" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>le <hi>as the Notes of Goldſmiths, or Banks, payable at demand,</hi> tho' not ſo well ſecured: For with theſe laſt, an <hi>pay his Rents, Taxes, Debts,</hi> &amp;c. Whereas with the Tallies payable in Courſe, he cannot.</p>
+            <p>Reaſon of which Difference is only this, That the <hi>Tallies</hi> are Payable but <hi>in Courſe</hi> one after another, as <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ey comes in, ſo that he which has the <hi>Tally</hi> cannot receive his Money till it be come in on that par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> 
+               <hi>Fund</hi> his <hi>Tally</hi> is ſtruck on, tho' there be never ſo much in the <hi>Exchequer</hi> on other <hi>Funds,</hi> nay that very <hi>Fund,</hi> if it be not come up to his particular Sum; Whereas the <hi>Notes</hi> even of Goldſmiths is, without the Sanction of Parliament, being made <hi>Payable at Demand,</hi> Perſons Value <hi>equal</hi> at leaſt <gap reason="illegible: in gutter" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>y, and ſo far <hi>above Tallies,</hi> that it is common to allow Five, and ſometimes Ten <hi>per Cent.</hi> or more, on Tallies that carry Eight <hi>per Cent.</hi> Intereſt in <hi>Exchange</hi> for <hi>ſuch Notes</hi> without Intereſt: <hi>Not that withs or Banks keep Money by them to anſwer all their Bills together. But</hi> Perſons having the <hi>Notion,</hi> are <hi>Payable at demand,</hi> inſtead of <hi>coming ſooner</hi> for their Money, generally <hi>ſtay as long for it as</hi> they <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>at <hi>one Fourth</hi> part or leſs <hi>circulates the whole,</hi> which makes it appear plainly, That <hi>if the Parliament <gap reason="illegible: in gutter" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> beginning of the War,</hi> raiſed but Two <hi>Millions</hi> of Money in <hi>ſpecie,</hi> to have been paid either into the <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>r, or into the Hands of <hi>Commiſſioners,</hi> to have been by them appointed for that purpoſe, and im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> them from time to time, to have iſſued out <hi>Tallies Payable at demand</hi> (inſtead of in Courſe) with an In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our or Five <hi>per Cent.</hi> (inſtead of Seven and Eight now paid) <hi>for ſuch Sums only</hi> as ſhould be directed <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible: in gutter" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ment,</hi> and have either Setled or obliged themſelves to have Setled <hi>Funds,</hi> or raiſed Money to pay <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>e at the End of the <hi>War,</hi> or ſooner, if neceſſary, <hi>with the ſevereſt Penalties</hi> on thoſe that had the <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ent thereof, <hi>if they iſſued any Tallies</hi> for any <hi>further</hi> Sums than they were <hi>Authorized by Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> might have been enough given out on the ſaid Security <hi>(if the Parliament had ſo directed)</hi> to have <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>the War,</hi> with only raiſing <hi>two Millions per Ann.</hi> more, which might have been ſo done, as to have Landed Men <hi>two, if not three Shillings in the Pound</hi> every year in the Taxes, and the Nation <hi>many</hi> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t pays inſenſibly in the <hi>riſe of</hi> all ſorts of <hi>Victuals and Commodities,</hi> by reaſon of the <hi>want</hi> of <hi>Money</hi> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Specie</hi> or <hi>Credit</hi> equivalent to Mony to Circulate the Trade, and pay Rents and Taxes; for it <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e <hi>kept ſeveral Millions in the Gentlemens, Tenants, and Farmer's hands,</hi> and in Trade, that the Tal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yable in courſe, and the long Funds (the moſt inconvenient thing of all to the Nation) have <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>t, and ſtill draw and keep out. And had we <hi>a General Regiſter</hi> in <hi>England,</hi> whereby Titles might <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>y ſecured, and the transferring thereof made eaſie and ſhort; <hi>a Method</hi> might be Propoſed <hi>to make <gap reason="illegible: in gutter" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſerve all the <g ref="char:V">Ʋ</g>ſes of Mony;</hi> But ſeeing that is to be rather wiſhed for, than expected, I ſee <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preſent that can <hi>ſupply the uſe of Mony,</hi> for paying Rents, Debts, and Taxes, <hi>but Tallies payable <gap reason="illegible: in gutter" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have contemplated the ill Conſequences that the Tallies payable in Courſe, and the long Funds and muſt inevitably have yet, I had not adventured to publiſh my thoughts, but that I think <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap>t ſtate of Affairs makes it not only a Conveniency, but <hi>an abſolute Neceſſity;</hi> for it puzzles the beſt <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Heads I have Converſed with, to anſwer this only Queſtion. <hi>How it will be even <hi>poſſible</hi> to <gap reason="illegible: in gutter" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Debts, and Taxes, and carry on Trade, and pay Bills (eſpecially foreign Bills of Exchange) after the</hi> 
+               <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> May <hi>next?</hi> For New Mony can't be very current by that time.</p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>' I think it is very late for this to take place, yet <hi>better late than never.</hi>
+            </p>
+            <p>
+               <hi>Parliament</hi> would but make an Experiment for the 2500000 <hi>l.</hi> they ſtill want on the Fund of <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and impower the Treaſury to borrow 600000 <hi>l.</hi> and let that remain to Circulate, <hi>Tallies</hi> pay<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mand for the whole 2500000 <hi>l.</hi> with Intereſt at 4 or 5 <hi>per Cent.</hi> for one year only, it would <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Nation a great Summ of Mony of the very Intereſt, and <hi>Supply the Trade of London,</hi> and thereby <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>plentiful in the Country,</hi> and be found ſo uſeful and neceſſary, that I don't doubt but they would <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> not only to continue it, but to raiſe more Mony the ſame way next, and other years, and <hi>ſave <gap reason="illegible: in gutter" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ax.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly Objection that has any appearance of Reaſon is, <hi>that it may give too large a Power to the <gap reason="illegible: in gutter" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>(how ſpecious ſoever it may appear) has nothing of relaity in it; for thoſe that have the Manage<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>of, being <hi>limited to a certain Sum,</hi> they can no more give out Tallies payable on demand, exceeding <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mited by <hi>Parliament,</hi> than of thoſe payable in courſe; <hi>for all theſe Tallies may be numbred, and the <gap reason="illegible: in gutter" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>pt as exactly as now.</hi>
+            </p>
+            <p>
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s no real difference between this way, and the common way, but that at preſent the Tallies are <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly in courſe as the Taxes come in; this makes them payable at demand, and Mony kept to Cir<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> 
+               <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, which will make them uſeful in payments of Rents, Taxes, <hi>&amp;c.</hi> as above.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
